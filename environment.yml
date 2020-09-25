@@ -22,4 +22,6 @@ dependencies:
     - scipy==1.5.2
     - seaborn==0.11.0
     - six==1.15.0
+    - matplotlib-venn==0.11.5
+    - wordcloud==1.8.0
 prefix: C:\Users\user\anaconda3\envs\py36
